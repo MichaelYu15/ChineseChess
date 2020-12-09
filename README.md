@@ -22,7 +22,7 @@ To run the game, simply download the jar file, and use the command java -jar hwx
 
 ## <a href=https://en.wikipedia.org/wiki/Xiangqi#Rules>How to Play</a>
 
-1. Download the jar file from <a href=https://github.com/ChiliPaneer/ChineseChess-JAVA_Swing>here</a>
+1. Download the "hwx.jar" jar file from the repository.
 2. On a machine with at least Java 8, run the following command: "java -jar hwx.jar"
 3. Configure your theme on the start menu, or just press the begin button to launch the board.
 4. Select a piece to highlight it
